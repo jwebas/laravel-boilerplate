@@ -6,6 +6,7 @@
 - [Dev Packages](#dev-packages)
 - [Installation](#installation)
 - [Docker](#docker)
+- [Testing](#testing)
 - [License](#license)
 
 ## System Requirements
@@ -57,6 +58,10 @@ $ vendor/bin/sail artisan key:generate
 ## Docker
 
 - PhpMyAdmin: [http://localhost:8080](http://localhost:8080)
+
+## Testing
+
+- [Pest](https://pestphp.com)
 
 ## License
 
